@@ -26,4 +26,10 @@ project 可以用任何你可以識別的專案名稱來命名它，這資料夾
 
 ### 2. 將 Laradock 專案下載下來
 
+使用git將Laradock下載到根目錄
+
 	git clone https://github.com/laradock/laradock.git
+
+進入 /laradock 目錄
+
+	cd laradock
