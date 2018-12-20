@@ -61,5 +61,9 @@ project 可以用任何你可以識別的專案名稱來命名它，這資料夾
 3-5 存檔
 如果使用VIM請按 `ESC` 離開插入(編輯)模式，並輸入 `:wq` 存檔離開，如果使用其他編輯器，請依照該編輯器的操作方式存檔離開。
 
-### 4. 執行
+### 4. 執行 docker-compose 起動容器並安裝 Nginx、MySQL、PHP
+
+	docker-compose up -d nginx mysql
+
+
 
