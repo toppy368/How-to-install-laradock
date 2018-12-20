@@ -38,18 +38,22 @@ project 可以用任何你可以識別的專案名稱來命名它，這資料夾
 
 ### 3. 修改 .env 檔
 
-3-1 將 env-example 複製並改名成 .env 檔  
+3-1. 將 env-example 複製並改名成 .env 檔  
+
 	cp env-example .env
 
-3-2 開啟 .env檔(以下用vi示範，也可用nano或任何編輯器)  
+3-2. 開啟 .env檔(以下用vi示範，也可用nano或任何編輯器)  
+
 	vi .env
 
-3-3 找到 APP_CODE_PATH_HOST 欄位
+3-3. 找到 APP_CODE_PATH_HOST 欄位  
+
 	APP_CODE_PATH_HOST=../
 
 若找不到以上欄位，在VI可以用 `/` 搜尋字元  
 
-3-4 指向專案資料夾 (取代/var/www)
+3-4. 指向專案資料夾 (取代/var/www)  
+
 	APP_CODE_PATH_HOST=../projectname/
 
 請將資料夾改成 `../projectname/` ，這將**指向位於根目錄的projectname資料夾**  
