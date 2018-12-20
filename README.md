@@ -3,7 +3,7 @@ How to install laradock . 如何安裝laradock
 
 Laradock是基於Dockar所製作出的laravel開發環境，也可當成LAMP與LEMP等Web server安裝工具，如果想查詢支援了哪些東西，請參考官方文件的 [Supported Software](https://laradock.io/introduction/#supported-software-images)
 
-這是將Laradock的官方文件，經過實際安裝後，重新整理後的安裝說明與補充內容
+本文建是將Laradock的 [官方文件](https://laradock.io/) ，經過實際安裝後，重新整理後的安裝說明與補充內容
 
 [Laradock 官方安裝文件](https://laradock.io/getting-started/)
 
