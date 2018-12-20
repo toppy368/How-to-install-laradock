@@ -9,6 +9,11 @@ How to install laradock . 如何安裝laradock
 * 安裝 Docker
 * 安裝 Docker compose
 
+## 目錄說明
+	* **project**
+	* Laradock
+(測試用)
+
 ## 安裝步驟
 
 ### 1. 在根目錄新增資料夾做為專案資料夾
