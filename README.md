@@ -42,3 +42,7 @@ project 可以用任何你可以識別的專案名稱來命名它，這資料夾
 
 3-2
 	vi .env
+3-3
+	APP_CODE_PATH_HOST=../
+3-4
+	APP_CODE_PATH_HOST=../projectname/
