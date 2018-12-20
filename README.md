@@ -35,3 +35,10 @@ project 可以用任何你可以識別的專案名稱來命名它，這資料夾
 進入 /laradock 目錄
 
 	cd laradock
+
+### 3. 
+3-1
+	cp env-example .env
+
+3-2
+	vi .env
