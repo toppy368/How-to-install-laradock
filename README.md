@@ -10,9 +10,8 @@ How to install laradock . 如何安裝laradock
 * 安裝 Docker compose
 
 ## 目錄說明
-	/home
-	* project
-	* Laradock
+	/project
+	/Laradock
 在/根目錄下有兩個目錄，Laradock為操作docker與各種設定的資料夾，容器的一切操作與服務的一切設定，像nginx、DB等設定都必須透過此資料夾執行，詳情請參考 [官網說明](https://laradock.io/)
 
 ## 安裝步驟
