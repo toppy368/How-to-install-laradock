@@ -12,7 +12,9 @@ How to install laradock . 如何安裝laradock
 ## 目錄說明
 	/project
 	/Laradock
-在/根目錄下有兩個目錄，Laradock為操作docker與各種設定的資料夾，容器的一切操作與服務的一切設定，像nginx、DB等設定都必須透過此資料夾執行，詳情請參考 [官網說明](https://laradock.io/)
+在/根目錄下有兩個目錄，分別是project (或任何你想命名的專案名稱)與 Laradock資料夾，這兩個都會在安裝步驟的實後實際安裝。  
+Laradock為操作docker與各種設定的資料夾，容器的一切操作與服務的一切設定，像nginx、DB等設定都必須透過此資料夾執行，詳情請考 [官網說明](https://laradock.io/)。  
+project 可以用任何你可以識別的專案名稱來命名它，這資料夾會被當成傳統架設Web server會產生的 `/var/www/` 資料夾，也就是網頁伺服器的網站根目錄。
 
 ## 安裝步驟
 
