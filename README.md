@@ -57,3 +57,6 @@ project 可以用任何你可以識別的專案名稱來命名它，這資料夾
 	APP_CODE_PATH_HOST=../projectname/
 
 請將資料夾改成 `../projectname/` ，這將**指向位於根目錄的projectname資料夾**  
+
+3-5 存檔
+如果為VIM請按 `ESC` 離開插入(編輯)模式，並輸入 `:wq` 存檔離開
