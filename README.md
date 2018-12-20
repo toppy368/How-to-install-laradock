@@ -52,4 +52,4 @@ project 可以用任何你可以識別的專案名稱來命名它，這資料夾
 3-4 指向專案資料夾 (取代/var/www)
 	APP_CODE_PATH_HOST=../projectname/
 
-請將資料夾改成 **/projectname/** ，這將**指向位於根目錄的projectname資料夾**  
+請將資料夾改成 `../projectname/` ，這將**指向位於根目錄的projectname資料夾**  
