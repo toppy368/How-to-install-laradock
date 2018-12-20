@@ -11,8 +11,10 @@ How to install laradock . 如何安裝laradock
 
 ## 安裝步驟
 
-### 1.在根目錄新增資料夾做為專案資料夾
+### 1. 在根目錄新增資料夾做為專案資料夾
 
 	mkdir [projectname]
 
+### 2. 將 Laradock 專案下載下來
 
+	git clone https://github.com/laradock/laradock.git
