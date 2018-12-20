@@ -10,9 +10,11 @@ How to install laradock . 如何安裝laradock
 * 安裝 Docker compose
 
 ## 目錄說明
+
 	/project
-	/Laradock
-在/根目錄下有兩個目錄，分別是project (或任何你想命名的專案名稱)與 Laradock資料夾，這兩個都會在安裝步驟的實後實際安裝。  
+	/laradock
+
+以上的內容的意思是，在根目錄下分別有 `project` 與 `laradock` 兩個資料夾，分別是project (或任何你想命名的專案名稱)與 Laradock資料夾，這兩個都會在安裝步驟的實後實際安裝。  
 
 Laradock為操作docker與各種設定的資料夾，容器的一切操作與服務的一切設定，像nginx、DB等設定都必須透過此資料夾執行，詳情請考 [官網說明](https://laradock.io/)。  
 
