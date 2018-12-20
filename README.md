@@ -68,4 +68,12 @@ project 可以用任何你可以識別的專案名稱來命名它，這資料夾
 	docker-compose up -d nginx mysql
 
 
+看到這幾行就表示容器已經建立完成了，也可看得出已建立了哪些服務
+	WARNING: Image for service nginx was built because it did not already exist. To rebuild this image you must use `docker-compose build` or `docker-compose up --build`.
+	Creating laradock_mysql_1            ... done
+	Creating laradock_docker-in-docker_1 ... done
+	Creating laradock_workspace_1        ... done
+	Creating laradock_php-fpm_1          ... done
+	Creating laradock_nginx_1            ... done
+
 
